@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotarias", "Lotarias\Lotarias.csproj", "{146F448C-C53C-4C61-9070-EAC618B3B173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{146F448C-C53C-4C61-9070-EAC618B3B173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146F448C-C53C-4C61-9070-EAC618B3B173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146F448C-C53C-4C61-9070-EAC618B3B173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146F448C-C53C-4C61-9070-EAC618B3B173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {673A349E-EC51-44BD-8FA7-82FCE63A1558}
+	EndGlobalSection
+EndGlobal
