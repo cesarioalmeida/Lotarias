@@ -29,7 +29,7 @@
             if (this.IsTotoloto)
             {
                 Enumerable.Range(0, 10).ForEach(i => Items.Add(this.GerarAposta()));
-                Items.Add("Número da sorte: \t" + this._randomGenerator.Next(1, TotolotoNumeroSorteMax + 1));
+                this.Items.Add("Número da sorte: \t" + this._randomGenerator.Next(1, TotolotoNumeroSorteMax + 1));
             }
             else
             {
